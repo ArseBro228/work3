@@ -1,0 +1,21 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+th{
+    background-color: palegoldenrod;
+}
+td{
+    background-color: sandybrown;
+    color: black;
+}
+.Item{
+    background-color: darkred;
+    color: chartreuse;
+    font-size:  20px;
+}
+table{
+    margin: auto;
+    width: 900px;
+    height: 750px;
+    font-size: 43px;
+}
